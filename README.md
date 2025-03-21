@@ -1,2 +1,2 @@
 # UtayomiVc
-唄詠ボイスチェンジャー：自動 HANASU ツール
+しゃべって唄詠：自動 HANASU ツール
